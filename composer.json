@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/redis-manager",
+    "name": "laradvance/admin-redis-manager",
     "description": "Redis manager for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "redis", "manager"],
-    "homepage": "https://github.com/laravel-admin-extensions/redis-manager",
+    "homepage": "https://github.com/laradvance/admin-redis-manager",
     "license": "MIT",
     "authors": [
         {
